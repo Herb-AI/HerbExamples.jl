@@ -1,8 +1,6 @@
 # HerbExamples.jl
 
-This repository contains some examples of Herb.jl usages.
-
-This repository uses notebooks for demonstrations of how to use the Herb Program Synthesis Framework. 
+This repository contains some examples of Herb.jl usages and uses notebooks for demonstrations of how to use the Herb Program Synthesis Framework. 
 
 If you want to run the Jupyter notebook files, you first need to install [Jupyter notebook](https://jupyter.org/install).
 You can then get Jupyter notebook to work with Julia by installing the IJulia package [using Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/).
